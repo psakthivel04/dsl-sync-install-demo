@@ -3,7 +3,7 @@ apiVersion: cloudbees.com/v2025.9
 kind: project
 metadata:
   name: Demo-project
-  description: this is for demo
+  description: this is for demo here
 spec:
   tracked: true
   acl:
